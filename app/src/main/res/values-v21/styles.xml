@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Themes for Android API21 -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/cColorPrimary</item>
+        <item name="colorPrimaryDark">@color/cColorPrimaryDark</item>
+        <item name="colorAccent">@color/cColorAccent</item>
+    </style>
+
+</resources>

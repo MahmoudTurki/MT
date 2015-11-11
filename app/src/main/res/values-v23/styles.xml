@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Themes for Android API23 -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/sColorPrimary</item>
+        <item name="colorPrimaryDark">@color/sColorPrimaryDark</item>
+        <item name="colorAccent">@color/sColorAccent</item>
+    </style>
+
+</resources>

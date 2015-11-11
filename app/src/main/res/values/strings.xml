@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Turki Flickr</string>
+    <string name="search">Search</string>
+    <string name="searching_for">Waiting for searching on \"%s\"</string>
+    <string name="search_failed">Sorry search for \"%s\" failed, check your network connection and try again</string>
+    <string name="list">List</string>
+    <string name="image_description">An image from the list of results for a search query</string>
+    <string name="fullscreen_description">Full screen view of an image</string>
+    <string name="flickr_photo_search">Flickr Photo Search</string>
+    <string name="flickr_user_photos">Flickr User Photos</string>
+</resources>
