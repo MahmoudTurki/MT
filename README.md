@@ -13,17 +13,6 @@ It's mainly fetches photos through a Flickr REST Api.
 * Supporting three different styles for 5.0-, 5.0 "Lollipop" and 6.0 "Marshmallow"(i.e. Changing Colors). 
 * Supporting Android 4.0+
 
-
-##**API Methods**
-
-##**Extra-API Methods**
-
-####**people**
-* flickr.people.getPhotos
-
-####**photos**
-* flickr.photos.search
-
 ##**Download**
 
 You can use Gradle:
@@ -39,6 +28,16 @@ dependencies {
     compile 'com.google.code.gson:gson:2.2.+'
 }
 ```
+
+##**API Methods**
+
+##**Extra-API Methods**
+
+####**people**
+* flickr.people.getPhotos
+
+####**photos**
+* flickr.photos.search
 
 ##**Request Caching**
 Using Volley framwork and it's powerful cache mechanism to maintain request cache. This saves lot of internet bandwidth and reduces user waiting time. Following are few example of using volley cache methods.
